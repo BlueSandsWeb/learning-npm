@@ -1,0 +1,8 @@
+#Installing and Using Packages
+
+*Use 'np install' to install a package
+*Use 'require()' to include a package
+
+
+to include an npm package you have to add it to a variable using require("") with the name of the package in the "";
+to use the variable holding the package, just call variableName();
